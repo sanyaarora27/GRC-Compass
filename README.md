@@ -7,6 +7,7 @@ Back in India, I went through the process of registering a small business. That 
 I didn't have the idea for this tool then. But when I came to the UK for my MSc in Cybersecurity, I decided to build something that would have helped. Anyone starting a business, or planning to, needs to be clear on the laws and jurisdictions that apply to them. People without a legal or security background find that information hard to find, and harder to understand.
 
 Most compliance guidance is written for organisations that already have legal and security teams. Founders, schools and charities usually don't, yet they handle personal data, often children's data, use AI tools every day, and work across borders. GRC Guide gives them a clear, approachable starting point.
+Project Link 🔗 : https://governance-risk-compliance--sanyaarora27.replit.app
 
 **Who it's for**
 Audience	What they usually don't know
