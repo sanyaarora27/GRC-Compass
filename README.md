@@ -9,6 +9,9 @@ I didn't have the idea for this tool then. But when I came to the UK for my MSc 
 Most compliance guidance is written for organisations that already have legal and security teams. Founders, schools and charities usually don't, yet they handle personal data, often children's data, use AI tools every day, and work across borders. GRC Guide gives them a clear, approachable starting point.
 Project Link 🔗 : https://governance-risk-compliance--sanyaarora27.replit.app
 
+<img width="1800" height="2240" alt="grc-compass-flowchart" src="https://github.com/user-attachments/assets/839a0897-dd81-420d-b7eb-1ce28ca309a4" />
+
+
 **Who it's for**
 Audience	What they usually don't know
 People planning to start an organisation	What needs to be in place before launch
